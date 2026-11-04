@@ -25,7 +25,7 @@ Jaringan dirancang untuk memenuhi kebutuhan akses bertingkat:
 
 <div align="center">
 
-![Logical Topology](gambar1.png)
+![Logical Topology](Dokumentasi/gambar1.png)
 *Gambar 1: Topologi Logikal Jaringan Kampus & Core Routers*
 
 </div>
