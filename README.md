@@ -4,23 +4,15 @@
 
 ---
 
-## 👥 Tim Penyusun (Kelompok 1)
-
-* **Denny Syahrul Afiansyah** (NRP: 3222600040)
-* **Arlingga Reksa Candra** (NRP: 3222600054)
-* **Arif Rakhmat M. I. M. M.** (NRP: 3222600060)
-
----
-
 ## 📌 Ringkasan Proyek
 
 Repositori ini terdiri dari dua bagian utama:
-1. **BAB I — Project Packet Tracer**: Perancangan dan simulasi jaringan enterprise/kampus yang menghubungkan area Laboratorium, Ruang Kelas, Ruang Dosen, Admin, dan Server Utama dengan routing gabungan BGP (EGP) dan OSPF (IGP).
-2. **BAB II — Aplikasi Chat Client-Server**: Pengembangan aplikasi obrolan (*real-time chat*) berbasis Python Socket, Tkinter GUI, multithreading, dan pengamanan transmisi data menggunakan enkripsi **AES-128 CFB Mode**.
+1. **Project Packet Tracer**: Perancangan dan simulasi jaringan enterprise/kampus yang menghubungkan area Laboratorium, Ruang Kelas, Ruang Dosen, Admin, dan Server Utama dengan routing gabungan BGP (EGP) dan OSPF (IGP).
+2. **Aplikasi Chat Client-Server**: Pengembangan aplikasi obrolan (*real-time chat*) berbasis Python Socket, Tkinter GUI, multithreading, dan pengamanan transmisi data menggunakan enkripsi **AES-128 CFB Mode**.
 
 ---
 
-## 🛠️ BAB I: Simulasi Jaringan (Cisco Packet Tracer)
+## 🛠️ Simulasi Jaringan (Cisco Packet Tracer)
 
 ### 📐 1. Topologi Jaringan & VLSM
 Jaringan dirancang untuk memenuhi kebutuhan akses bertingkat:
@@ -58,7 +50,7 @@ Jaringan dirancang untuk memenuhi kebutuhan akses bertingkat:
 
 ---
 
-## 🔒 BAB II: Aplikasi Encrypted Chat Client-Server (Python)
+## 🔒 Aplikasi Encrypted Chat Client-Server (Python)
 
 Aplikasi *chat* berbasis GUI yang mengamankan transmisi data menggunakan algoritma **AES-128 Mode CFB (Cipher Feedback)**.
 
