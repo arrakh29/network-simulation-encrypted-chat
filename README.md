@@ -62,7 +62,7 @@ Aplikasi *chat* berbasis GUI yang mengamankan transmisi data menggunakan algorit
 
 <div align="center">
 
-![Chat App GUI](gambar3.png)
+![Chat App GUI](Dokumentasi/gambar3.png)
 *Gambar 3: Tampilan Antarmuka Chat Client (Tkinter)*
 
 </div>
@@ -81,7 +81,7 @@ Saat dilakukan *sniffing* paket jaringan menggunakan Wireshark pada Port `8888`,
 
 <div align="center">
 
-![Wireshark Capture](gambar4.png)
+![Wireshark Capture](Dokumentasi/gambar4.png)
 *Gambar 4: Analisis Paket Wireshark Menunjukkan Payload Terenkripsi AES*
 
 </div>
